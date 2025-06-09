@@ -1,1 +1,2 @@
-# WinActivator
+# WinActivKMS Activator Pro is a command-line tool designed to activate Microsoft Windows (versions 7 to 11) and Office (2010 to 2021) using a Key Management Service (KMS) server (kms8.msguides.com). It features a menu-driven interface, a detailed initialization sequence with system scanning, terminal-based logging, and robust error handling.ator!
+![nmcr_downloaded_image](https://github.com/user-attachments/assets/2979062e-6ef2-43dc-8886-1f372fad4c77)
